@@ -1,6 +1,6 @@
 # 👾 Visitha Nirmal
 
-![Hacker Background](https://i.imgur.com/9uWzZ7F.gif)
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
 ## 🚀 Languages & Technologies
 
