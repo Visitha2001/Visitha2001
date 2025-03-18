@@ -1,5 +1,5 @@
-<div align="center">
-  ![Dino Hacker Background](https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=790b7611qupdvwzzl2sv27gz6z2j8elj7hmcsk3qea3n29me&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <img src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=790b7611qupdvwzzl2sv27gz6z2j8elj7hmcsk3qea3n29me&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dino Hacker Background" style="max-width: 100%; height: auto;">
 </div>
 
 <h1 align="center">
