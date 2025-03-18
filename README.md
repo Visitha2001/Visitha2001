@@ -1,4 +1,4 @@
-![Dino Hacker Background](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47uar1vhn23diomrpq1bmybfxsgfgap9o8easaukeq&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Dino Hacker Background](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e47hruc3kpnon2z0erlmpoyc5xni8y7eau1zji5hthh&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=32&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+I'm+Visitha+Nirmal+Rajapaksha!;Full-Stack+Developer;Tech+Enthusiast;and+a+Problem+Solving+Fanatic!" alt="Typing SVG"/>
