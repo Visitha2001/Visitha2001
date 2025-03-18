@@ -2,7 +2,11 @@
 
 ![Dino Hacker Background](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
-> I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development cloud infrastructure, and DevOps. When I'm not coding, you'll find me gaming or watching movies!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+I'm+Visitha!;Full-Stack+Developer;Tech+Enthusiast;and+a+Problem+Solving+Fanatic!" alt="Typing SVG"/>
+</h1>
+
+> I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development, cloud infrastructure, and DevOps. When I'm not coding, you'll find me gaming or watching movies!
 
 ## 🚀 Languages & Technologies
 
