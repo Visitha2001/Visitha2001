@@ -1,5 +1,5 @@
 <div style="display: flex; gap: 10px; height: 100vh; width: 100%; margin: 0 auto; overflow-x: auto;">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47xa36k6v5sppyza62hwzwt32izizi7at1ef5iztf6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dino Hacker Background" style="flex-shrink: 0; max-width: 50%; height: auto;">
+  <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif" alt="Dino Hacker Background" style="flex-shrink: 0; max-width: 50%; height: auto;">
 </div>
 
 <h1 align="center">
