@@ -10,7 +10,7 @@
 
 ## 🚀 Languages & Technologies
 
-<div align="center">
+<div align="">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
@@ -39,7 +39,7 @@
 
 ## 🌐 Social Links
 
-<div align="center">
+<div align="">
   <a href="https://github.com/Visitha2001" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.facebook.com/visitha.rajapaksha?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.linkedin.com/in/visitha-nirmal-rajapaksha-5809a3300" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
