@@ -1,4 +1,4 @@
-<h1 align="">
+<h1 align="center" margin="20px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+I'm+Visitha+Nirmal+Rajapaksha!;Full-Stack+Developer;Tech+Enthusiast;and+a+Problem+Solving+Fanatic!" alt="Typing SVG"/>
 </h1>
 
