@@ -1,4 +1,8 @@
 ---
+title: "Visitha Nirmal - Full-Stack Developer"
+description: "Passionate self-taught full-stack developer with expertise in various languages and tools."
+---
+
 👋 Hi, I'm <span style="font-size: 1.5em; font-weight: bold; color: #4CAF50;">Visitha Nirmal</span>, a passionate self-taught full-stack developer 🚀.
 
 ### About
@@ -36,8 +40,31 @@
 
 ---
 
+### Animations
+
+Here’s a fun animation for you:
+
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Coding Animation">
 </div>
 
 ---
+
+### CSS Animations
+
+If you're using this in a web page, you can add CSS animations like this:
+
+```html
+<style>
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  .animated-text {
+    animation: bounce 2s infinite;
+    font-size: 1.5em;
+    color: #4CAF50;
+  }
+</style>
+
+<p class="animated-text">🚀 Keep Coding! 🚀</p>
