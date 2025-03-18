@@ -36,31 +36,8 @@
 
 ---
 
-### Animations
-
-Here’s a fun animation for you:
-
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Coding Animation">
 </div>
 
 ---
-
-### CSS Animations
-
-If you're using this in a web page, you can add CSS animations like this:
-
-```html
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  .animated-text {
-    animation: bounce 2s infinite;
-    font-size: 1.5em;
-    color: #4CAF50;
-  }
-</style>
-
-<p class="animated-text">🚀 Keep Coding! 🚀</p>
