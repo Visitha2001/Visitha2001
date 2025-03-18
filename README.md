@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%; margin: 0 auto;">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e471vz8hrqc32out38ua6hdukf8outxm1okjck8rfwy&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dino Hacker Background" style="max-width: 100%; height: auto;">
+  <img src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=790b7611qupdvwzzl2sv27gz6z2j8elj7hmcsk3qea3n29me&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dino Hacker Background" style="max-width: 100%; height: auto;">
   <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif?cid=ecf05e471vz8hrqc32out38ua6hdukf8outxm1okjck8rfwy&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dino Hacker Background" style="max-width: 100%; height: auto;">
 </div>
 
