@@ -2,6 +2,8 @@
 
 ![Dino Hacker Background](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
+> I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, cloud infrastructure, and DevOps. When I'm not coding, you'll find me gaming or watching movies!
+
 ## 🚀 Languages & Technologies
 
 <div align="center">
