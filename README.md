@@ -3,11 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=%23ADD8E6&center=true&vCenter=true&lines=Hi,+I'm+Visitha+Nirmal!;Full-Stack+Developer;Tech+Enthusiast;A+Problem+Solving+Fanatic!" alt="Typing SVG"/>
 </h1>
 
-> I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development, cloud infrastructure, and DevOps. When I'm not coding, you'll find me gaming or watching movies!
-
-<div style="display: flex; gap: 10px; height: 100vh; width: 100%; margin: 0 auto; overflow-x: auto;">
-  <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif" alt="Dino Hacker Background" style="flex-shrink: 0; max-width: 50%; height: auto;">
-</div>
+I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development, cloud infrastructure, and DevOps. When I'm not coding, you'll find me gaming or watching movies!
 
 ## 🚀 Languages & Technologies
 
