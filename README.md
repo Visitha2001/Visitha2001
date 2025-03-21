@@ -1,4 +1,5 @@
 <h1 align="center">
+  <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=%23ADD8E6&center=true&vCenter=true&lines=Hi%2C+I'm+Visitha+Nirmal+Rajapaksha!;Full-Stack+Developer;Tech+Enthusiast;and+a+Problem+Solving+Fanatic!" alt="Typing SVG"/>
 </h1>
 
