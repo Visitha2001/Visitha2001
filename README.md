@@ -5,7 +5,7 @@
 
 I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development, cloud infrastructure, and DevOps. When I'm not coding, you'll find me gaming or watching movies!
 
-## 🚀 Languages & Technologies
+## 🚀 Tech Stack
 
 <div align="">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
