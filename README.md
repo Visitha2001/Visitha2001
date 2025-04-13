@@ -7,8 +7,6 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 ## 🚀 Tech Stack & Tools
 
-## 🚀 Tech Stack
-
 | Frontend            | Backend             | Databases          | Tools & Tech     |
 |---------------------|---------------------|--------------------|--------------------|
 | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> |
