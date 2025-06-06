@@ -65,10 +65,6 @@ I'm a passionate developer who loves building scalable applications and explorin
     <td bgcolor="#2496ED" rowspan="3"></td>
   </tr>
   <tr>
-    <td bgcolor="#239120" align="center"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></td>
-    <td bgcolor="#000000" align="center"><img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth"></td>
-  </tr>
-  <tr>
     <td bgcolor="#000000" align="center"><img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth.js"></td>
     <td bgcolor="#000000" align="center"><img src="https://img.shields.io/badge/CNN-000000?style=for-the-badge&logo=deeplearning&logoColor=white" alt="CNN"></td>
   </tr>
