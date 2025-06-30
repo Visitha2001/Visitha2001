@@ -1,6 +1,6 @@
 <h1 align="center">
 <!--   <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=100px></p> -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=%2336BCF7&center=true&vCenter=true&lines=Hi,+I'm+Visitha+Nirmal!;Full-Stack+Developer;Tech+Enthusiast;A+Problem+Solving+Fanatic!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=%2300FF00&center=true&vCenter=true&lines=Hi,+I'm+Visitha+Nirmal!;Full-Stack+Developer;Tech+Enthusiast;A+Problem+Solving+Fanatic!" alt="Typing SVG"/>
 </h1>
 
 I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development, cloud infrastructure, DevOps, and Machine Learning. When I'm not coding, you'll find me gaming or watching Tv Series!
