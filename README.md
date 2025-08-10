@@ -60,4 +60,4 @@ I'm a passionate developer who loves building scalable applications and explorin
 ###  Activity Overview
 
 <!-- Commits & PR activity cards -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Visitha2001&show_icons=true&theme=radical" alt="GitHub Stats" />
