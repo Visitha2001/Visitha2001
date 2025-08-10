@@ -60,22 +60,5 @@ I'm a passionate developer who loves building scalable applications and explorin
 ### 📊 Activity Overview
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Visitha2001&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Visitha2001&theme=react-dark" alt="GitHub Activity Graph" />
-
-</div>
-
-<!-- Real-time Commit & PR Counts -->
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-
-  <!-- Total Commits -->
-  <img src="https://img.shields.io/github/commit-activity/y/Visitha2001/Visitha2001?label=Commits&color=blue" alt="Commit Count" />
-
-  <!-- Total Pull Requests -->
-  <img src="https://img.shields.io/github/search/Visitha2001/Visitha2001/pulls?q=is%3Apr&label=Pull%20Requests&color=green" alt="Pull Request Count" />
-
+  <img src="https://gthub-readme-activity-graph.vercel.app/graph?username=Visitha2001&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
