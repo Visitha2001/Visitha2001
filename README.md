@@ -56,13 +56,5 @@ I'm a passionate developer who loves building scalable applications and explorin
   <a href="https://www.linkedin.com/in/visitha-nirmal-rajapaksha-5809a3300" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://wa.me/qr/MYI3VWZYIAECG1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
-
-###  Activity Overview
-
-<!-- Commits & PR activity cards -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Visitha2001&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-###  My GitHub Metrics
-
-![Total Commits](https://img.shields.io/badge/Commits-1234-blue)
-![Pull Requests](https://img.shields.io/badge/PRs-567-green)
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Visitha2001&theme=react-dark" alt="GitHub Activity Graph" />
