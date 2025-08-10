@@ -61,3 +61,8 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 <!-- Commits & PR activity cards -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Visitha2001&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+###  My GitHub Metrics
+
+![Total Commits](https://img.shields.io/badge/Commits-1234-blue)
+![Pull Requests](https://img.shields.io/badge/PRs-567-green)
