@@ -57,8 +57,8 @@ I'm a passionate developer who loves building scalable applications and explorin
   <a href="https://wa.me/qr/MYI3VWZYIAECG1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
-### 📊 Activity Overview
+###  Activity Overview
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://gthub-readme-activity-graph.vercel.app/graph?username=Visitha2001&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Visitha2001&theme=react-dark" alt="GitHub Activity Graph" />
+
