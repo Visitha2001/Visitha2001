@@ -12,8 +12,8 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Three Fiber">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;">
+<!-- </div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -26,13 +26,13 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth.js">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;">
+<!-- </div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;">
+<!-- </div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
@@ -44,8 +44,8 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://img.shields.io/badge/CNN-000000?style=for-the-badge&logo=deeplearning&logoColor=white" alt="CNN">
   <img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="NLTK">
   <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;">
+<!-- </div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
@@ -55,8 +55,8 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;">
+<!-- </div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
 </div>
 
