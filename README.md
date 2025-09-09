@@ -42,7 +42,7 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/CNN-NeuralNet-000000?style=for-the-badge&logo=deeplearning&logoColor=white" alt="CNN">
+  <img src="https://img.shields.io/badge/CNN-NeuralNet-blue?style=for-the-badge&logo=deeplearning&logoColor=white" alt="CNN">
   <img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="NLTK">
   <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API">
 <!-- </div>
