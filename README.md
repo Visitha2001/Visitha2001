@@ -65,12 +65,3 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Visitha2001&theme=react-dark" alt="GitHub Activity Graph" />
-
-### Connect with me 🔗
-
-- 📍 Kandy, Sri Lanka
-- 📧 <a href="mailto:visitha2001@gmail.com">visitha2001@gmail.com</a>
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@visitha2001)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/visithanrajapaksha)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visitha-nirmal-rajapaksha-5809a3300)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/MYI3VWZYIAECG1)
