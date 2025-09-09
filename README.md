@@ -58,7 +58,7 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
 <!-- </div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
+  <img src="https://img.shields.io/badge/QGIS-GIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
 </div>
 
 ###  Activity Overview
