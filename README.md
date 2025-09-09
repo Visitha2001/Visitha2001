@@ -12,6 +12,7 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Three Fiber">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
 <!-- </div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
