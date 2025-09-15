@@ -1,14 +1,9 @@
 <h1 align="center">
   <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-  <div align="center" style="position: relative; display: inline-block; width: 100%;">
-    <!-- Wave background -->
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontColor=fff&animation=twinkling"/>
-  
-    <!-- Typing text overlay -->
-    <div style="position: absolute; top: 55%; left: 50%; transform: translate(-50%, -50%);">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=%23FFFFFF&center=true&vCenter=true&lines=Hi,+I'm+Visitha+Nirmal!;Full-Stack+Developer;Tech+Enthusiast;A+Problem+Solving+Fanatic!" alt="Typing SVG"/>
-    </div>
-  </div>
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=footer&text=VISITHA-NIRMAL-RAJAPAKSHA&fontSize=20&fontColor=fff&fontAlignY=72"
+  />
 </h1>
 
 I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development, cloud infrastructure, DevOps, and Machine Learning.
