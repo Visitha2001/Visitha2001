@@ -6,7 +6,7 @@
   />
 </h1>
 
-I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development, cloud infrastructure, DevOps, and Machine Learning.
+I'm a passionate full-stack developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development, cloud infrastructure, DevOps, and Machine Learning.
 
 ## 🚀 Tech Stack & Tools
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;">
@@ -50,19 +50,21 @@ I'm a passionate developer who loves building scalable applications and explorin
   <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API">
 <!-- </div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
+  <img src="https://img.shields.io/badge/DevOps-008080?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+<!--   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
 <!-- </div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
   <img src="https://img.shields.io/badge/QGIS-GIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
+  <img src="https://img.shields.io/badge/Agile-F05A28?style=for-the-badge&logo=atlassian&logoColor=white" alt="Agile">
 </div>
 
 ###  Activity Overview
