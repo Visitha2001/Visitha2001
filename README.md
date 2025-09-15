@@ -1,5 +1,6 @@
 <h1 align="center">
   <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+  <img width="100%" title="#VISITHA_NIRMAL" alt="#VISITHA_NIRMAL" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=VISITHA_NIRMAL&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=%2300FF00&center=true&vCenter=true&lines=Hi,+I'm+Visitha+Nirmal!;Full-Stack+Developer;Tech+Enthusiast;A+Problem+Solving+Fanatic!" alt="Typing SVG"/>
 </h1>
 
