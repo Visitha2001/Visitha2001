@@ -2,7 +2,7 @@
   <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
   <img 
   width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=footer&text=VISITHA_NIRMAL&fontSize=20&fontColor=fff&fontAlignY=72"
+  src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=footer&text=Visitha-Nirmal-Rajapaksha&fontSize=20&fontColor=fff&fontAlignY=72"
   />
 </h1>
 
