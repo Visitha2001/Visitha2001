@@ -1,10 +1,9 @@
 <h1 align="center">
   <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<img 
+  <img 
   width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=ff7e5f,feb47b&height=150&section=footer&text=VISITHA-NIRMAL-RAJAPAKSHA&fontSize=20&fontColor=fff&fontAlignY=72"
-/>
-
+  src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=footer&text=VISITHA_NIRMAL&fontSize=20&fontColor=fff&fontAlignY=72"
+  />
 </h1>
 
 I'm a passionate developer who loves building scalable applications and exploring cutting-edge technologies. My expertise lies in backend development, front-end development, cloud infrastructure, DevOps, and Machine Learning.
