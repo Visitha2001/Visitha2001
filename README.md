@@ -59,17 +59,15 @@ I'm a passionate full-stack developer who loves building scalable applications a
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/warp-007ACC?style=for-the-badge&logo=warp&logoColor=white" alt="warp">
-<!--   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
-<!-- </div>
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; padding: 16px; border: 2px solid #e0e0e0; border-radius: 12px;"> -->
   <img src="https://img.shields.io/badge/QGIS-GIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
   <img src="https://img.shields.io/badge/Agile-F05A28?style=for-the-badge&logo=atlassian&logoColor=white" alt="Agile">
-</div> -->
-
-###  Activity Overview
+</div>
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Visitha2001&theme=react-dark" alt="GitHub Activity Graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Visitha2001&theme=react-dark" alt="GitHub Activity Graph" /> -->
